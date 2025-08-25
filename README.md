@@ -1,18 +1,39 @@
-<h1 align="center">Hello World! 👋</h1>
+<div align="center">
+  <img height="150" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHo0d3UwNDVlZ2o5ODZ1NzNlZWk1Y3psdW4yeWxqNWlicnQ2bmlneCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/dsW9sCnEb5SBtffGqC/giphy.gif"  />
+</div>
 
 ###
 
-<br clear="both">
-
 <div align="center">
   <a href="https://www.linkedin.com/in/rafael-knebel/?locale=en_US" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://www.instagram.com/rafaelkn_/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="instagram logo"  />
   </a>
 </div>
 
 ###
 
 <div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=rafaelkn.rafaelkn&left_color=black&right_color=rebeccapurple"  />
+</div>
+
+
+<h1 align="center">Hello World! 👋</h1>
+
+<h3 align="left">👩‍💻  About Me</h3>
+<p align="left">🌍 Navigating life from Brazil  <br>💻 Turning coffee into code at university  <br>📚 Exploring Python, C, and web development  <br>⚡ When not coding, I’m gaming or messing around with new tech</p>
+
+<h3 align="left">🛠 Language and tools</h3>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="40" alt="blender logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
@@ -34,35 +55,24 @@
 
 ###
 
-<div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitch logo"  />
-  <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="devto logo"  />
+<h3 align="left">🔥   My Stats :</h3>
+
+###
+
+<div align="left">
+  <img src="https://streak-stats.demolab.com?user=rafaelkn&locale=en&mode=daily&theme=midnight-purple&hide_border=false&border_radius=5&order=3" height="300" alt="streak graph"  />
 </div>
 
 ###
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=maurodesouza&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
-</div>
+<h3>🎵 Currently Listening</h3>
 
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
-</picture>
-
-###
-
-<div align="center">
-  <a href="[https://open.spotify.com/user/rafao](https://open.spotify.com/user/31kqb3ouoecz2mo54yd2cjhw64mi)">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=rafao&count=3" alt="Spotify recently played"  />
-  </a>
-</div>
+<a href="https://open.spotify.com/user/31kqb3ouoecz2mo54yd2cjhw64mi">
+  <img 
+    src="https://spotify-recently-played-readme.vercel.app/api?user=31kqb3ouoecz2mo54yd2cjhw64mi&unique={true|1|on|yes}" 
+    alt="Spotify recently played"
+    style="max-width: 100%; height: auto; border-radius: 8px;"
+  />
+</a>
 
 ###
