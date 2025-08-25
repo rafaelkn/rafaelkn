@@ -58,3 +58,11 @@
 </picture>
 
 ###
+
+<div align="center">
+  <a href="[https://open.spotify.com/user/rafao](https://open.spotify.com/user/31kqb3ouoecz2mo54yd2cjhw64mi)">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=rafao&count=3" alt="Spotify recently played"  />
+  </a>
+</div>
+
+###
