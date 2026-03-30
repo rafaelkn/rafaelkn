@@ -25,7 +25,7 @@
 <img align="right" height="120" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjZka3kxdnJjNzdmemt4Y3VrM2J0aHF4ejRuM2pkOXBmMGJ6Mm05NCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/BuNGhfgf3MdmsybmJt/giphy.gif"  />
 
 <h3 align="left">👩‍💻  About Me</h3>
-<p align="left">🌍 Navigating life from Brazil  <br>💻 Turning coffee into code at university  <br>📚 Exploring Python, C, and web development  <br>⚡ When not coding, I’m gaming or messing around with new tech</p>
+<p align="left">🌍 Navigating life from Brazil  <br>💻 Turning coffee into code at university  <br>📚 Exploring Python, C/C++, Java and web development  <br>⚡ When not coding, I’m gaming or messing around with new tech</p>
 
 <h3 align="left">🛠 Language and tools</h3>
 
