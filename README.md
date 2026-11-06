@@ -1,24 +1,48 @@
-## Hi, I'm Rafael! 👋
+# Rafael Knebel
 
-Computer Science Student at UFFS 🇧🇷
+<p align="center">
+  <samp>computer science student · software development · curious by default</samp>
+</p>
 
-I'm an undergraduate student passionate about software development, problem-solving and emerging technologies.
+<p align="center">
+  <a href="https://www.linkedin.com/in/rafael-knebel">LinkedIn</a> ·
+  <a href="https://github.com/rafaelkn">GitHub</a>
+</p>
 
-### 🎓 Education
-- B.Sc. in Computer Science — UFFS
-- Expected graduation: 2028
+---
 
-### 💻 Technologies
-- Languages: Python, Java, C, C++, JavaScript
-- Web: HTML, CSS, React, Node.js
-- Tools: Git, GitHub, Linux
+### `01` — A little about me
 
-### 🚀 Areas of Interest
+Hey! I'm Rafael, a Computer Science undergraduate at **UFFS**, Brazil.
+
+I'm interested in how technology can turn ideas into things people can actually use. I enjoy exploring software development, solving problems and learning how different technologies work together.
+
+Currently building my foundations in software engineering while exploring the possibilities of AI.
+
+### `02` — My toolkit
+
+| Area | Technologies |
+|---|---|
+| Languages | Python · Java · C · C++ · JavaScript |
+| Web | HTML · CSS · React · Node.js |
+| Tools | Git · GitHub · Linux |
+| Foundations | Algorithms · Data Structures · OOP |
+
+### `03` — Things I've worked on
+
+- **Bauru Restaurante** — Academic project focused on bringing restaurant operations into one system.
+- **Academic projects** — Experiments and assignments involving Java, C/C++ and problem-solving.
+- **Programming Club** — Collaborative learning and programming practice.
+
+### `04` — Currently exploring
+
 - Software Engineering
-- Artificial Intelligence
+- Artificial Intelligence & Machine Learning
 - Data and Algorithms
-- Application Development
+- Building useful applications
 
-### 📫 Connect with me
-- [LinkedIn](https://www.linkedin.com/in/rafael-knebel)
-- [GitHub](https://github.com/rafaelkn)
+---
+
+<p align="center">
+  <samp>always learning. always building. 🚀</samp>
+</p>
