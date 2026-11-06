@@ -1,63 +1,91 @@
-# Rafael Knebel
+<h1 data-importer="text" align="center">你好👋</h1>
 
-<p align="center">
-  <samp>building things with code, collecting ideas from everywhere.</samp>
-</p>
+###
 
-<p align="center">
-  🇧🇷 Based in Brazil · Computer Science @ UFFS
-</p>
+<div data-importer="socials" align="center">
+  <a href="www.linkedin.com/in/rafael-knebel" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
+  <a href="rafaelknebel24@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
+  </a>
+</div>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/rafael-knebel">LinkedIn</a> ·
-  <a href="https://github.com/rafaelkn">GitHub</a>
-</p>
+###
 
----
+<h3 data-importer="text" align="left">👩‍💻  About Me</h3>
 
-### 01 / About me
+###
 
-Hey, I'm Rafael!
+<p data-importer="text" align="left">I'm Rafael, a Computer Science student from Brazil, fascinated by technology, design and Chinese culture<br><br>- 💻 I'm currently exploring software development, artificial intelligence and the creative side of technology<br>- 📚 Learning more about software engineering, UI/UX design and Mandarin Chinese (中文)<br>- 🧋 In my free time, I enjoy exploring fashion, learning about China, discovering new places and getting inspired by different cultures</p>
 
-I'm a Computer Science student at the Federal University of Fronteira Sul (UFFS), interested in software development, technology and the creative possibilities behind it.
+###
 
-I enjoy understanding how things work, experimenting with ideas and turning concepts into something functional. I'm particularly interested in the intersection of software engineering, artificial intelligence and design.
+<h3 data-importer="text" align="left">🛠 Language and tools</h3>
 
-Currently building my foundations in Computer Science while figuring out all the different things I can create with technology.
+###
 
-### 02 / Tech stack
+<div data-importer="techs" align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="28" alt="arduino logo"  />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="28" alt="blender logo"  />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="28" alt="bootstrap logo"  />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="28" alt="c logo"  />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="28" alt="canva logo"  />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="28" alt="cplusplus logo"  />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="28" alt="css logo"  />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="28" alt="figma logo"  />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="28" alt="git logo"  />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="28" alt="github logo"  />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="28" alt="html5 logo"  />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/insomnia/insomnia-original.svg" height="28" alt="insomnia logo"  />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="28" alt="intellij logo"  />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="28" alt="java logo"  />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="28" alt="javascript logo"  />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="28" alt="linux logo"  />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="28" alt="nodejs logo"  />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg" height="28" alt="notion logo"  />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="28" alt="npm logo"  />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="28" alt="postgresql logo"  />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="28" alt="pycharm logo"  />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="28" alt="python logo"  />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="28" alt="react logo"  />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="28" alt="vscode logo"  />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg" height="28" alt="yarn logo"  />
+</div>
 
-**Languages**
-`Python` `Java` `C` `C++` `JavaScript`
+###
 
-**Web development**
-`HTML` `CSS` `React` `Node.js`
+<h3 data-importer="text" align="left">🔥   My Stats :</h3>
 
-**Tools & environment**
-`Git` `GitHub` `Linux` `VS Code`
+###
 
-**Computer Science**
-`Data Structures` `Algorithms` `Object-Oriented Programming`
+<div data-importer="stats" align="center">
+  <img src="https://raw.githubusercontent.com/rafaelkn/rafaelkn/stats-output/stats.svg?hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=jolly&locale=en&hide_border=false&order=1&custom_title=Stats" height="250" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=rafaelkn&locale=en&mode=daily&theme=jolly&hide_border=false&border_radius=10&order=3" height="220" alt="streak graph"  />
+</div>
 
-### 03 / What I'm into
-
-Beyond programming, I'm interested in:
-
-- **Design & visual culture** — digital aesthetics, visual identities, interfaces and the relationship between design and technology.
-- **China & East Asia** — Chinese cities, urban development, architecture, technology and everyday culture. Shenzhen is particularly fascinating to me.
-- **Languages** — currently learning Mandarin (普通话), one character and one new expression at a time.
-- **Fashion & creative expression** — streetwear, personal style and the way visual identity communicates personality.
-- **Technology & the future** — artificial intelligence, emerging technologies and the ways they might change how we live.
-
-### 04 / Currently exploring
-
-- Improving my software engineering skills.
-- Exploring artificial intelligence and machine learning.
-- Learning more about design and digital experiences.
-- Studying Mandarin and discovering more about Chinese culture.
-
----
-
-<p align="center">
-  <samp>somewhere between writing code, learning 中文 and dreaming about the lights of Shenzhen.</samp>
-</p>
+###
