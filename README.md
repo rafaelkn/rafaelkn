@@ -84,7 +84,7 @@
 ###
 
 <div data-importer="stats" align="center">
-  <img src="https://raw.githubusercontent.com/rafaelkn/rafaelkn/stats-output/stats.svg?hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=jolly&locale=en&hide_border=false&order=1&custom_title=Stats" height="250" alt="stats graph"  />
+  <img src="https://raw.githubusercontent.com/rafaelkn/rafaelkn/stats-output/stats.svg?hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=false&disable_animations=false&theme=jolly&locale=en&hide_border=false&order=1&custom_title=Stats" height="250" alt="stats graph"  />
   <img src="https://streak-stats.demolab.com?user=rafaelkn&locale=en&mode=daily&theme=jolly&hide_border=false&border_radius=10&order=3" height="220" alt="streak graph"  />
 </div>
 
