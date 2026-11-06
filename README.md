@@ -30,9 +30,7 @@ Currently building my foundations in software engineering while exploring the po
 
 ### `03` — Things I've worked on
 
-- **Bauru Restaurante** — Academic project focused on bringing restaurant operations into one system.
 - **Academic projects** — Experiments and assignments involving Java, C/C++ and problem-solving.
-- **Programming Club** — Collaborative learning and programming practice.
 
 ### `04` — Currently exploring
 
