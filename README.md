@@ -1,7 +1,11 @@
 # Rafael Knebel
 
 <p align="center">
-  <samp>computer science student · software development · curious by default</samp>
+  <samp>building things with code, collecting ideas from everywhere.</samp>
+</p>
+
+<p align="center">
+  🇧🇷 Based in Brazil · Computer Science @ UFFS
 </p>
 
 <p align="center">
@@ -11,36 +15,49 @@
 
 ---
 
-### `01` — A little about me
+### 01 / About me
 
-Hey! I'm Rafael, a Computer Science undergraduate at **UFFS**, Brazil.
+Hey, I'm Rafael!
 
-I'm interested in how technology can turn ideas into things people can actually use. I enjoy exploring software development, solving problems and learning how different technologies work together.
+I'm a Computer Science student at the Federal University of Fronteira Sul (UFFS), interested in software development, technology and the creative possibilities behind it.
 
-Currently building my foundations in software engineering while exploring the possibilities of AI.
+I enjoy understanding how things work, experimenting with ideas and turning concepts into something functional. I'm particularly interested in the intersection of software engineering, artificial intelligence and design.
 
-### `02` — My toolkit
+Currently building my foundations in Computer Science while figuring out all the different things I can create with technology.
 
-| Area | Technologies |
-|---|---|
-| Languages | Python · Java · C · C++ · JavaScript |
-| Web | HTML · CSS · React · Node.js |
-| Tools | Git · GitHub · Linux |
-| Foundations | Algorithms · Data Structures · OOP |
+### 02 / Tech stack
 
-### `03` — Things I've worked on
+**Languages**
+`Python` `Java` `C` `C++` `JavaScript`
 
-- **Academic projects** — Experiments and assignments involving Java, C/C++ and problem-solving.
+**Web development**
+`HTML` `CSS` `React` `Node.js`
 
-### `04` — Currently exploring
+**Tools & environment**
+`Git` `GitHub` `Linux` `VS Code`
 
-- Software Engineering
-- Artificial Intelligence & Machine Learning
-- Data and Algorithms
-- Building useful applications
+**Computer Science**
+`Data Structures` `Algorithms` `Object-Oriented Programming`
+
+### 03 / What I'm into
+
+Beyond programming, I'm interested in:
+
+- **Design & visual culture** — digital aesthetics, visual identities, interfaces and the relationship between design and technology.
+- **China & East Asia** — Chinese cities, urban development, architecture, technology and everyday culture. Shenzhen is particularly fascinating to me.
+- **Languages** — currently learning Mandarin (普通话), one character and one new expression at a time.
+- **Fashion & creative expression** — streetwear, personal style and the way visual identity communicates personality.
+- **Technology & the future** — artificial intelligence, emerging technologies and the ways they might change how we live.
+
+### 04 / Currently exploring
+
+- Improving my software engineering skills.
+- Exploring artificial intelligence and machine learning.
+- Learning more about design and digital experiences.
+- Studying Mandarin and discovering more about Chinese culture.
 
 ---
 
 <p align="center">
-  <samp>always learning. always building. 🚀</samp>
+  <samp>somewhere between writing code, learning 中文 and dreaming about the lights of Shenzhen.</samp>
 </p>
